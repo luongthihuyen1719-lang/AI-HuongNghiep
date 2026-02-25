@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="Hệ thống hướng nghiệp thông minh", layout="wide")
+st.set_page_config(page_title="Ứng Dụng Hướng Nghiệp Cho Học Sinh", layout="wide")
 
-st.title("🎓 HỆ THỐNG HƯỚNG NGHIỆP THÔNG MINH 4.0")
+st.title("🎓 ỨNG DỤNG HƯỚNG NGHIỆP THÔNG MINH 4.0")
 st.markdown("### Ứng dụng phân tích sở thích & cơ hội việc làm")
 
 # =========================
@@ -83,3 +83,5 @@ if st.button("🚀 Phân tích ngành phù hợp"):
         ])
 
         st.bar_chart(df_kq.head(10).set_index("Ngành")["Điểm tổng"])
+        st.caption("© 2026 NHÓM 1 - LỚP 10A2 - TRƯỜNG THPT ĐÌNH LẬP")
+
