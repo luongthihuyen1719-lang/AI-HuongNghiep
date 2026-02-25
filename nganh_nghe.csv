@@ -1,0 +1,110 @@
+Ten_nganh,Nhom_mon,Co_hoi_viec_lam,Mo_ta
+Công nghệ thông tin,"Toán|Tin học",95,Phát triển phần mềm và hệ thống
+AI & Data Science,"Toán|Tin học",97,Trí tuệ nhân tạo và dữ liệu lớn
+An ninh mạng,"Toán|Tin học",94,Bảo mật hệ thống mạng
+Kỹ thuật phần mềm,"Toán|Tin học",93,Thiết kế ứng dụng
+Khoa học dữ liệu,"Toán|Tin học",96,Phân tích dữ liệu
+Lập trình Game,"Toán|Tin học",88,Phát triển trò chơi
+Thiết kế Web,"Tin học|Tiếng Anh",85,Xây dựng website
+Hệ thống thông tin,"Toán|Tin học",90,Quản lý hệ thống CNTT
+Robot và AI,"Toán|Vật lý",92,Chế tạo robot
+IoT,"Toán|Tin học",91,Internet vạn vật
+
+Kỹ thuật điện,"Toán|Vật lý",90,Thiết kế hệ thống điện
+Kỹ thuật cơ khí,"Toán|Vật lý",88,Chế tạo máy móc
+Tự động hóa,"Toán|Vật lý",91,Điều khiển tự động
+Kỹ thuật xây dựng,"Toán|Vật lý",89,Xây dựng công trình
+Kỹ thuật ô tô,"Toán|Vật lý",87,Công nghệ ô tô
+Kỹ thuật hàng không,"Toán|Vật lý",93,Kỹ thuật máy bay
+Kỹ thuật điện tử,"Toán|Vật lý",90,Mạch điện tử
+Công nghệ vật liệu,"Hóa học|Vật lý",86,Nghiên cứu vật liệu
+Công nghệ thực phẩm,"Hóa học|Sinh học",88,Sản xuất thực phẩm
+Công nghệ sinh học,"Sinh học|Hóa học",92,Nghiên cứu sinh học
+
+Marketing,"Toán|Tiếng Anh",85,Chiến lược marketing
+Quản trị kinh doanh,"Toán|Tiếng Anh",87,Quản lý doanh nghiệp
+Tài chính ngân hàng,"Toán|Tiếng Anh",88,Quản lý tài chính
+Kế toán,"Toán|Ngữ văn",82,Kế toán doanh nghiệp
+Thương mại điện tử,"Toán|Tin học",90,Kinh doanh online
+Logistics,"Toán|Tiếng Anh",90,Chuỗi cung ứng
+Quản trị nhân lực,"Ngữ văn|Tiếng Anh",80,Quản lý nhân sự
+Bất động sản,"Toán|Ngữ văn",83,Kinh doanh nhà đất
+Kinh doanh quốc tế,"Toán|Tiếng Anh",89,Thương mại toàn cầu
+Du lịch quốc tế,"Địa lý|Tiếng Anh",78,Dịch vụ du lịch
+
+Y đa khoa,"Sinh học|Hóa học",88,Bác sĩ điều trị
+Dược học,"Sinh học|Hóa học",89,Sản xuất thuốc
+Điều dưỡng,"Sinh học|Hóa học",85,Chăm sóc bệnh nhân
+Răng hàm mặt,"Sinh học|Hóa học",90,Nha khoa
+Y học cổ truyền,"Sinh học|Hóa học",80,Đông y
+Xét nghiệm y học,"Sinh học|Hóa học",87,Phân tích y khoa
+Thú y,"Sinh học|Hóa học",82,Chăm sóc động vật
+Dinh dưỡng,"Sinh học|Hóa học",84,Tư vấn dinh dưỡng
+Y tế công cộng,"Sinh học|Ngữ văn",83,Sức khỏe cộng đồng
+Vật lý trị liệu,"Sinh học|Vật lý",86,Phục hồi chức năng
+
+Luật,"Ngữ văn|Lịch sử",80,Pháp luật
+Báo chí,"Ngữ văn|Lịch sử",78,Truyền thông
+Quan hệ quốc tế,"Ngữ văn|Tiếng Anh",84,Ngoại giao
+Tâm lý học,"Ngữ văn|Sinh học",85,Tư vấn tâm lý
+Công tác xã hội,"Ngữ văn|Lịch sử",75,Hỗ trợ cộng đồng
+Ngôn ngữ Anh,"Ngữ văn|Tiếng Anh",88,Biên phiên dịch
+Ngôn ngữ Trung,"Ngữ văn|Tiếng Anh",85,Biên phiên dịch
+Ngôn ngữ Nhật,"Ngữ văn|Tiếng Anh",86,Biên phiên dịch
+Sư phạm Toán,"Toán|Ngữ văn",75,Giảng dạy Toán
+Sư phạm Văn,"Ngữ văn|Lịch sử",74,Giảng dạy Văn
+
+Kiến trúc,"Toán|Vật lý",88,Thiết kế công trình
+Thiết kế đồ họa,"Tin học|Ngữ văn",84,Thiết kế sáng tạo
+Thiết kế nội thất,"Toán|Mỹ thuật",82,Trang trí không gian
+Thiết kế thời trang,"Ngữ văn|Mỹ thuật",80,Thiết kế trang phục
+Âm nhạc,"Ngữ văn|Lịch sử",70,Hoạt động nghệ thuật
+Điện ảnh,"Ngữ văn|Lịch sử",78,Sản xuất phim
+Đạo diễn,"Ngữ văn|Lịch sử",76,Làm phim
+Nhiếp ảnh,"Tin học|Ngữ văn",72,Sáng tạo hình ảnh
+Mỹ thuật,"Ngữ văn|Lịch sử",68,Nghệ thuật tạo hình
+Biên kịch,"Ngữ văn|Lịch sử",74,Viết kịch bản
+
+Nông học,"Sinh học|Hóa học",80,Trồng trọt
+Lâm nghiệp,"Sinh học|Địa lý",78,Quản lý rừng
+Nuôi trồng thủy sản,"Sinh học|Hóa học",82,Thủy sản
+Quản lý đất đai,"Địa lý|Toán",79,Tài nguyên đất
+Môi trường,"Sinh học|Địa lý",85,Bảo vệ môi trường
+Khí tượng học,"Vật lý|Địa lý",83,Dự báo thời tiết
+Tài nguyên nước,"Địa lý|Toán",82,Quản lý nước
+Địa chất,"Địa lý|Vật lý",81,Nghiên cứu địa chất
+Hải dương học,"Địa lý|Sinh học",80,Khoa học biển
+Công nghệ sinh thái,"Sinh học|Địa lý",84,Hệ sinh thái
+
+Quản lý thể thao,"Sinh học|Toán",75,Điều hành thể thao
+Huấn luyện viên,"Sinh học|Toán",70,Đào tạo thể thao
+Công an,"Ngữ văn|Lịch sử",85,An ninh trật tự
+Quân đội,"Ngữ văn|Lịch sử",88,Bảo vệ tổ quốc
+Hải quan,"Toán|Tiếng Anh",84,Kiểm soát xuất nhập khẩu
+Phi công,"Toán|Vật lý",95,Điều khiển máy bay
+Tiếp viên hàng không,"Tiếng Anh|Ngữ văn",86,Dịch vụ hàng không
+Quản lý khách sạn,"Địa lý|Tiếng Anh",82,Dịch vụ khách sạn
+Đầu bếp,"Hóa học|Ngữ văn",75,Ẩm thực
+Chuyên viên HR,"Ngữ văn|Tiếng Anh",83,Quản lý nhân sự
+
+Phân tích tài chính,"Toán|Tiếng Anh",90,Đầu tư tài chính
+Blockchain,"Toán|Tin học",93,Công nghệ chuỗi khối
+Khoa học máy tính,"Toán|Tin học",96,Nghiên cứu CNTT
+Phân tích kinh doanh,"Toán|Tiếng Anh",88,Tư vấn doanh nghiệp
+Quản trị dự án,"Toán|Ngữ văn",87,Điều hành dự án
+Kỹ sư năng lượng,"Vật lý|Hóa học",89,Năng lượng tái tạo
+Kỹ thuật hạt nhân,"Vật lý|Hóa học",92,Năng lượng hạt nhân
+Khoa học môi trường,"Sinh học|Địa lý",85,Bảo vệ môi trường
+Chuyên viên SEO,"Tin học|Tiếng Anh",84,Tối ưu tìm kiếm
+Digital Marketing,"Toán|Tiếng Anh",88,Tiếp thị số
+
+Thống kê,"Toán|Tin học",91,Phân tích số liệu
+Khoa học dữ liệu tài chính,"Toán|Tin học",94,Dữ liệu tài chính
+Trí tuệ nhân tạo ứng dụng,"Toán|Tin học",97,AI thực tiễn
+Phát triển ứng dụng di động,"Toán|Tin học",92,Mobile app
+Thiết kế UX/UI,"Tin học|Ngữ văn",85,Trải nghiệm người dùng
+Quản lý chuỗi cung ứng,"Toán|Tiếng Anh",90,Supply chain
+Xuất nhập khẩu,"Toán|Tiếng Anh",87,Thương mại quốc tế
+Quản lý giáo dục,"Ngữ văn|Toán",78,Điều hành trường học
+Tư vấn hướng nghiệp,"Ngữ văn|Tâm lý",82,Tư vấn nghề nghiệp
+Khoa học chính trị,"Ngữ văn|Lịch sử",80,Nghiên cứu chính trị
